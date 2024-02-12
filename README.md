@@ -1,2 +1,2 @@
 # codesoft
-a code repo for task 1 of codesoft
+a code repo for task all of codesoft
